@@ -1,0 +1,8 @@
+vel 25 attack@60fps: 0.00 0.00 0.00 0.00 0.00 0.11 0.32 0.48 0.60 0.68 0.72 0.73 0.73 0.73 0.73 0.73
+vel 70 attack@60fps: 0.00 0.00 0.00 0.00 0.00 0.22 0.59 0.80 0.86 0.86 0.86 0.86 0.86 0.86 0.86 0.86
+vel 127 attack@60fps: 0.00 0.00 0.00 0.00 0.00 0.68 1.04 1.01 0.99 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+ff: peak 1.043 monotonic attack(before bounce) false release overshoot min -0.0301
+max per-ms step (continuity) 0.1163
+repeats: max step 0.0598 min d between repeats 0.601
+determinism same-frame after other frames: true
+seek vs sequential identical: true (fps 60)
